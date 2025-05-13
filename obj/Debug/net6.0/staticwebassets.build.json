@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "lcx8/Ss6usb1cDgbPhu+DGYUMw5nQJq/TiT5uqF7PBg=",
+  "Source": "Projeto_Web-Lh_Pets_Alunos",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_Alunos\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_Alunos",
+      "ContentRoot": "C:\\Users\\ferna\\Desktop\\Programação\\SENAI\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ferna\\Desktop\\Programação\\SENAI\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ferna\\Desktop\\Programação\\SENAI\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "junj9l9mbp",
+      "Integrity": "hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\ferna\\Desktop\\Programação\\SENAI\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    },
+    {
+      "Route": "index.junj9l9mbp.html",
+      "AssetFile": "C:\\Users\\ferna\\Desktop\\Programação\\SENAI\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "junj9l9mbp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    }
+  ]
+}
